@@ -1,11 +1,14 @@
-# X Ads MCP Server (Twitter Ads)
+# X Ads MCP Server (Twitter Ads) by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/x-ads)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Connect X Ads (formerly Twitter Ads) to AI assistants for real-time social advertising analytics.**
 
-The X Ads MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your X advertising campaigns. Track promoted tweets, monitor engagement, and get AI-powered recommendations.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The X Ads MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your X advertising campaigns. Track promoted tweets, monitor engagement, and get AI-powered recommendations.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![X Ads MCP Server](https://insightfulpipe.com/images/x-social-media-black-icon.svg)
 
@@ -141,11 +144,21 @@ claude mcp add x-ads https://x-ads.insightfulmcp.com/
 - **Read-only access** - Safe analytics queries
 - **Data encryption** - Secure transmission
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### Social Advertising MCP Servers
 - [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Social advertising
 - [TikTok Ads MCP](https://insightfulpipe.com/mcp-servers/tiktok-ads) - Video advertising
 - [LinkedIn Ads MCP](https://insightfulpipe.com/mcp-servers/linkedin-ads) - Professional social
+- [Snapchat Ads MCP](https://insightfulpipe.com/mcp-servers/snapchat-ads) - Gen-Z advertising
+
+### Search Advertising MCP Servers
+- [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - Search advertising
+- [Microsoft Ads MCP](https://insightfulpipe.com/mcp-servers/microsoft-ads) - Bing advertising
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -156,7 +169,12 @@ claude mcp add x-ads https://x-ads.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
