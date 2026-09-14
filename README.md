@@ -175,6 +175,15 @@ Then authorize the connection when Cursor prompts you.
 
 </details>
 
+## Control What Your AI Can Do
+
+You decide what AI agents can do with each connected account:
+
+- **Turn individual actions on or off** for every connected account, so agents only see the actions you allow.
+- **Connect as Read-only or Read & Write.** A read-only connection can only enable read actions.
+- **Destructive actions stay off by default.** Actions such as deletes are disabled until an admin enables them.
+- **Team access per account.** Restricted team members only use the accounts they are granted, with the read actions enabled on them.
+
 ## Usage Examples
 
 ### Campaign Performance
@@ -241,6 +250,10 @@ Then authorize the connection when Cursor prompts you.
 - **X Developer Platform** - Official API access
 - **OAuth 2.0** - Secure X authentication
 - **Data encryption** - Secure transmission
+
+## Ready-Made Skills and Prompts
+
+- [Claude skills for social media ads](https://insightfulpipe.com/marketing-claude-skills/social-media-ads) — ready-made skills that run on your connected data
 
 ## Explore More MCP Servers by Insightful Pipe
 
